@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20554" started-at="2019-07-29T14:32:42Z" finished-at="2019-07-29T14:33:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20554" started-at="2019-07-29T14:32:42Z" finished-at="2019-07-29T14:33:02Z">
+      <class name="com.qa.pom.scripts.SnlRestPOM">
+        <test-method status="PASS" signature="Test1()[pri:-7, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test1" duration-ms="42" started-at="2019-07-29T20:02:42Z" finished-at="2019-07-29T20:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:-6, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test2" duration-ms="2743" started-at="2019-07-29T20:02:42Z" finished-at="2019-07-29T20:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:-5, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test3" duration-ms="1849" started-at="2019-07-29T20:02:45Z" finished-at="2019-07-29T20:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="Test4()[pri:-4, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test4" duration-ms="283" started-at="2019-07-29T20:02:47Z" finished-at="2019-07-29T20:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="Test5()[pri:-3, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test5" duration-ms="613" started-at="2019-07-29T20:02:47Z" finished-at="2019-07-29T20:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="Test6()[pri:-2, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test6" duration-ms="623" started-at="2019-07-29T20:02:47Z" finished-at="2019-07-29T20:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+        <test-method status="PASS" signature="Test7()[pri:-1, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test7" duration-ms="384" started-at="2019-07-29T20:02:48Z" finished-at="2019-07-29T20:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test7 -->
+        <test-method status="PASS" signature="Test8()[pri:0, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test8" duration-ms="140" started-at="2019-07-29T20:02:48Z" finished-at="2019-07-29T20:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test8 -->
+        <test-method status="PASS" signature="Test9()[pri:5, instance:com.qa.pom.scripts.SnlRestPOM@cb644e]" name="Test9" duration-ms="13811" started-at="2019-07-29T20:02:49Z" finished-at="2019-07-29T20:03:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test9 -->
+      </class> <!-- com.qa.pom.scripts.SnlRestPOM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

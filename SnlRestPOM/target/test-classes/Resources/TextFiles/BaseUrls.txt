@@ -1,0 +1,6 @@
+boardCompleteDetails: http://10.0.1.86/snl/rest/{ver}/board.{fileType}
+boardCreate: http://10.0.1.86/snl/rest/{ver}/board/new.{fileType}
+boardDetails: http://10.0.1.86/snl/rest/{ver}/board/{bid}.{fileType}
+playerCreate: http://10.0.1.86/snl/rest/{ver}/player.{fileType}
+playerDetails: http://10.0.1.86/snl/rest/{ver}/player/{pid}.{fileType}
+playerMove: http://10.0.1.86/snl/rest/{ver}/move/{bid}.{fileType}?player_id={pid}
